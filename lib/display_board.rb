@@ -1,4 +1,4 @@
-def display_board(board)
+def display_board
 
   puts"  | | "
   puts"-----------"
@@ -7,3 +7,5 @@ def display_board(board)
   puts"  | | "
 
 end
+
+display_board
